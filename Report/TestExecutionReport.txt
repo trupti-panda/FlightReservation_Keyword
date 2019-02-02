@@ -1,0 +1,39 @@
+********************************************************************************
+Project Name : Flight Reservation
+Browser : chrome
+OS : Windows 7
+Java Version : 1.8.0_201
+User : Trupti
+Host : Trupti-PC
+********************************************************************************
+=============================================================================================================================================================================================
+New TestCase : Verify that Flight Reservation Application is launched successfully
+=============================================================================================================================================================================================
+GOTOURL------url---Pass
+VERIFYTITLE------Welcome: Mercury Tours---Pass
+=============================================================================================================================================================================================
+New TestCase : Verify that user should be able to get logged in to the application after entering valid credentials
+=============================================================================================================================================================================================
+TYPE---NAME---userNamemercury---Pass
+TYPE---NAME---passwordmercury---Pass
+CLICK---NAME---sign-In---Pass
+VERIFYELEMENTPRESENT---XPATH---oneway---Pass
+=============================================================================================================================================================================================
+New TestCase : Verify that user should able to reserve a flight after entering valid flight details
+=============================================================================================================================================================================================
+CLICK---XPATH---oneway---Pass
+SELECT---NAME---flyFromLondon---Pass
+SELECT---NAME---flyToParis---Pass
+CLICK---XPATH---firstClass---Pass
+SELECT---NAME---airlinePreferenceBlue Skies Airlines---Pass
+CLICK---NAME---continue1---Pass
+VERIFYELEMENTPRESENT---NAME---continue2---Pass
+CLICK---NAME---continue2---Pass
+=============================================================================================================================================================================================
+New TestCase : Verify that user should able to book a flight ticket after entering valid passenger details
+=============================================================================================================================================================================================
+TYPE---NAME---firstNameTrupti---Pass
+TYPE---NAME---lastNamePanda---Pass
+TYPE---NAME---creditCardNumber7657698798765---Pass
+CLICK---NAME---securePurchase---Pass
+VERIFYTEXT---XPATH---confirmationTextitinerary has been booked!---Pass

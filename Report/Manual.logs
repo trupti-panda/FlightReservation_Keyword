@@ -1,0 +1,37 @@
+02/02/2019 12:01:06 flightReservation Invoking Application Unser Test by using URL : http://newtours.demoaut.com
+02/02/2019 12:01:11 flightReservation Invoked Application Unser Test by using URL : http://newtours.demoaut.com
+02/02/2019 12:01:11 flightReservation Verifying Title : Welcome: Mercury Tours
+02/02/2019 12:01:11 flightReservation Verified Title : Welcome: Mercury Tours
+02/02/2019 12:01:11 flightReservation Entering 'mercury' in the 'userName' edit field.
+02/02/2019 12:01:11 flightReservation Entered 'mercury' in the 'userName' edit field.
+02/02/2019 12:01:11 flightReservation Entering 'mercury' in the 'password' edit field.
+02/02/2019 12:01:11 flightReservation Entered 'mercury' in the 'password' edit field.
+02/02/2019 12:01:11 flightReservation Clicking on 'sign-In'
+02/02/2019 12:01:17 flightReservation Clicked on 'sign-In'
+02/02/2019 12:01:17 flightReservation Verifying presence of 'oneway on web page.
+02/02/2019 12:01:17 flightReservation Verified presence of 'oneway on web page.
+02/02/2019 12:01:17 flightReservation Clicking on 'oneway'
+02/02/2019 12:01:17 flightReservation Clicked on 'oneway'
+02/02/2019 12:01:17 flightReservation Selecting 'London' from the 'flyFrom' drop down.
+02/02/2019 12:01:17 flightReservation Selected 'London' from the 'flyFrom' drop down.
+02/02/2019 12:01:17 flightReservation Selecting 'Paris' from the 'flyTo' drop down.
+02/02/2019 12:01:17 flightReservation Selected 'Paris' from the 'flyTo' drop down.
+02/02/2019 12:01:17 flightReservation Clicking on 'firstClass'
+02/02/2019 12:01:17 flightReservation Clicked on 'firstClass'
+02/02/2019 12:01:17 flightReservation Selecting 'Blue Skies Airlines' from the 'airlinePreference' drop down.
+02/02/2019 12:01:17 flightReservation Selected 'Blue Skies Airlines' from the 'airlinePreference' drop down.
+02/02/2019 12:01:17 flightReservation Clicking on 'continue1'
+02/02/2019 12:01:19 flightReservation Clicked on 'continue1'
+02/02/2019 12:01:19 flightReservation Verifying presence of 'continue2 on web page.
+02/02/2019 12:01:19 flightReservation Verified presence of 'continue2 on web page.
+02/02/2019 12:01:19 flightReservation Clicking on 'continue2'
+02/02/2019 12:01:20 flightReservation Clicked on 'continue2'
+02/02/2019 12:01:20 flightReservation Entering 'Trupti' in the 'firstName' edit field.
+02/02/2019 12:01:20 flightReservation Entered 'Trupti' in the 'firstName' edit field.
+02/02/2019 12:01:20 flightReservation Entering 'Panda' in the 'lastName' edit field.
+02/02/2019 12:01:21 flightReservation Entered 'Panda' in the 'lastName' edit field.
+02/02/2019 12:01:21 flightReservation Entering '7657698798765' in the 'creditCardNumber' edit field.
+02/02/2019 12:01:21 flightReservation Entered '7657698798765' in the 'creditCardNumber' edit field.
+02/02/2019 12:01:21 flightReservation Clicking on 'securePurchase'
+02/02/2019 12:01:22 flightReservation Clicked on 'securePurchase'
+02/02/2019 12:01:22 flightReservation Verifying Text : itinerary has been booked!
